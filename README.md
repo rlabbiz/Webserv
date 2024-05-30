@@ -18,8 +18,8 @@ This project is here to make you write your own HTTP server. You will be able to
 
 This project was a collaborative effort by three dedicated students, each contributing their expertise to different aspects of its development:
 
-- [Amine Ait Ouazghour (Me)](https://www.linkedin.com/in/amaitou/) : Led the project by setting up the server, designing the logic for the multiplexer, and implementing request parsing for every client connected to the server.
-- [Rida Labbiz](https://www.linkedin.com/in/rida-labbiz-320b661b8/) : Played a crucial role in parsing the configuration file and handling the response from each client, ensuring smooth communication and data processing within the system.
+- [Amine Ait Ouazghour](https://www.linkedin.com/in/amaitou/) : Led the project by setting up the server, designing the logic for the multiplexer, and implementing request parsing for every client connected to the server.
+- [Rida Labbiz (Me)](https://www.linkedin.com/in/rida-labbiz-320b661b8/) : Played a crucial role in parsing the configuration file and handling the response from each client, ensuring smooth communication and data processing within the system.
 - [Ali El Amine](https://www.linkedin.com/in/el-amine-ali-0650b1181/) : Demonstrated exceptional skill in creating the Common Gateway Interface (CGI) for our web server and effectively managing potential errors that could arise during the execution of CGI scripts, such as syntax errors and timeouts.
 
 
